@@ -8,6 +8,12 @@
 Useful tools for developer and people working in IT. <a href="https://it-tools.tech">Try it!</a>
 </p>
 
+## AWS ECS Deployment
+
+This repository includes a full deployment guide for running IT Tools App on **AWS ECS with Fargate**, served over HTTPS with a custom domain via **Cloudflare**.
+
+See [DEPLOYMENT.md](DEPLOYMENT.md) for the complete step-by-step guide covering Docker containerisation, ECR, ECS, ALB, SSL with ACM, and custom domain setup.
+
 ## Functionalities and roadmap
 
 Please check the [issues](https://github.com/CorentinTh/it-tools/issues) to see if some feature listed to be implemented.
