@@ -582,6 +582,6 @@ ECS Task (from it-tools-task definition)
 
 After completing manual deployment and teardown:
 
-1. Rebuild everything using Terraform (Infrastructure as Code)
-2. Set up CI/CD with GitHub Actions
-3. Complete documentation and architecture diagram
+1. Rebuild everything using Terraform (Infrastructure as Code).
+2. Set up CI/CD with GitHub Actions.
+3. Complete documentation and architecture diagram.
